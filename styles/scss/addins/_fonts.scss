@@ -1,0 +1,73 @@
+
+@font-face {
+    font-family: 'EBGaramondRegular';
+    src: url('/fonts/EBGaramond-webfont.eot');
+    src: url('/fonts/EBGaramond-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/EBGaramond-webfont.woff') format('woff'),
+         url('/fonts/EBGaramond-webfont.ttf') format('truetype'),
+         url('/fonts/EBGaramond-webfont.svg#EBGaramondRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'EBGaramondSC';
+    src: url('/fonts/EBGaramondSC-webfont.eot');
+    src: url('/fonts/EBGaramondSC-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/EBGaramondSC-webfont.woff') format('woff'),
+         url('/fonts/EBGaramondSC-webfont.ttf') format('truetype'),
+         url('/fonts/EBGaramondSC-webfont.svg#EBGaramondSC') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'ValenciaBlack';
+    src: url('/fonts/valenciablack-webfont.eot');
+    src: url('/fonts/valenciablack-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/valenciablack-webfont.woff') format('woff'),
+         url('/fonts/valenciablack-webfont.ttf') format('truetype'),
+         url('/fonts/valenciablack-webfont.svg#ValenciaBlack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ValenciaLight';
+    src: url('/fonts/valencialight-webfont.eot');
+    src: url('/fonts/valencialight-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/valencialight-webfont.woff') format('woff'),
+         url('/fonts/valencialight-webfont.ttf') format('truetype'),
+         url('/fonts/valencialight-webfont.svg#ValenciaLight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'WisdomScriptAI';
+    src: url('/fonts/wisdom_script-webfont.eot');
+    src: url('/fonts/wisdom_script-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/wisdom_script-webfont.woff') format('woff'),
+         url('/fonts/wisdom_script-webfont.ttf') format('truetype'),
+         url('/fonts/wisdom_script-webfont.svg#WisdomScriptAIRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+$font-WisdomScript:     "WisdomScriptAI";
+$font-garamound-sc:     "EBGaramondSC", Garamound, serif;
+$font-garamound:        "EBGaramondRegular", Garamound, serif;
+$font-ValenciaBlack:    "ValenciaBlack";
+$font-ValenciaLight:    "ValenciaLight";

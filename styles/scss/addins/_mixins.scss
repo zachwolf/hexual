@@ -1,0 +1,6 @@
+@mixin transformThis($angle: 3.5deg) {
+	-webkit-transform: rotate(#{$angle});
+	-moz-transform: rotate(#{$angle});
+	-o-transform: rotate(#{$angle});
+	-webkit-backface-visibility: hidden;
+}
