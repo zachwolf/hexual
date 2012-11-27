@@ -50,7 +50,6 @@
 				hexu.al
 			</h1>
 			<h2>
-				<!-- sexual, hexual, Colorful words -->
 				<span class="z-index-fix">Colorful words</span>
 			</h2>
 		</div>
