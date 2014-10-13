@@ -1,0 +1,29 @@
+/*------------------------------------*\
+    $DEMO
+\*------------------------------------*/
+html{
+  font-family:Georgia, serif;
+  padding:$base-spacing-unit;
+  background-color:#fafafa;
+  color:#333;
+}
+
+.foo{
+    
+    > li{
+        
+        > a{
+            background-color:#4a8ec2;
+            color:#fff;
+            border-left:1px solid #fff;
+        }
+        
+        &:first-child > a{
+            border-left:none;
+        }
+        
+        &.current > a{
+            background-color:#29597c;
+        }
+    }
+}
