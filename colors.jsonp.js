@@ -1,4 +1,4 @@
-hexual([
+callback([
   {
     "word": "abacas",
     "hex": "ABACA5",
